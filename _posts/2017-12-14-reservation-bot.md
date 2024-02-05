@@ -20,3 +20,5 @@ nd I used my favorite Python.
 
 ## Duration
 I'll make it in a day.  
+
+<iframe height=498 width=510 src="/assets/video/articulated_robot_1.mp4">
