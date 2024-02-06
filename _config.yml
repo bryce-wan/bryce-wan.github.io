@@ -1,5 +1,5 @@
 # Site settings
-title: Bryce-Wan
+title: Chenyang (Bryce) Wan
 baseurl: ""
 url: "https://bryce-wan.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Chenyang Wan
-  desc: nice to meet you
+  desc: "Email: bryce.chenyang.w [at] gmail [dot] com"
   email: bryce.chenyang.w@gmail.com
   selfie: assets/img/profile.jpg
 
@@ -59,4 +59,3 @@ exclude:
   - "*.gem"
   - "LICENSE"
   - "READE.md"
-  - "screenshot.png"

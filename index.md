@@ -3,28 +3,21 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hello! My name is Chenyang Wan (万晨阳), and you can call me Bryce as well. I'm currently a third-year undergraduate student at [College of Control Science and Engineering(CSE)](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University(ZJU)](https://www.zju.edu.cn/english/). I also take courses in Advanced Honor Class of Engineering Education(ACEE), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp) as a minor. 
+
+My research interests include robotics(particularly in robot navigation and trajectory planning), computer vision, and machine learning.
+
+Now I am an internship student in the [Robotics Lab of Zhejiang University](https://github.com/ZJU-Robotics-Lab). My research work focusing on the mutual localization in multi-robot systems and the application of reinforcement learning in robot navigation.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-## 121212131
-qweqweqweqw
-### wqeqweqweqw
-qweqwfsdasd
+# Research Experience
+
+
 
 <br/>
 
 # Interests
 I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+I'm always learning C++, and I enjoy using Python.  
+
