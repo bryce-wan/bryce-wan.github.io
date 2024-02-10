@@ -35,10 +35,18 @@ It takes about three weeks to complete the project (in Nov & Dec 2023).
 
 ## Result
 <center>
-<iframe height=360 width=640 src="/assets/video/articulated_robot_1/articulated_robot_1.mp4">
+<iframe height=360 width=640 src="/assets/video/articulated_robot_1.mp4">
 </center>
 
 <center>
-<iframe height=360 width=640 src="/assets/video/articulated_robot_2/articulated_robot_2.mp4">
+<iframe height=360 width=640 src="/assets/video/articulated_robot_2.mp4">
 </center>
 <!-- <video src="/assets/video/articulated_robot_1.mp4" height="360px" controls="controls" controlslist="play timeline volume"></video>  -->
+<!-- 
+<video controls>
+    <source src="/assets/video/articulated_robot_1.mp4" height="360px" type="video/mp4">
+</video>
+
+<!-- <video controls>
+    <source src="/assets/video/articulated_robot_2.mp4" height="360px" type="video/mp4">
+</video> --> -->
