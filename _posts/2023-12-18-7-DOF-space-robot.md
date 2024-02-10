@@ -34,19 +34,21 @@ We used matlab to derive the forward and inverse kinematics of the robotic arm, 
 It takes about three weeks to complete the project (in Nov & Dec 2023).
 
 ## Result
-<center>
+<!-- <center>
 <iframe height=360 width=640 src="/assets/video/articulated_robot_1.mp4">
-</center>
+</center> -->
 
-<center>
+<!-- <center>
 <iframe height=360 width=640 src="/assets/video/articulated_robot_2.mp4">
-</center>
+</center> -->
 <!-- <video src="/assets/video/articulated_robot_1.mp4" height="360px" controls="controls" controlslist="play timeline volume"></video>  -->
-<!-- 
-<video controls>
-    <source src="/assets/video/articulated_robot_1.mp4" height="360px" type="video/mp4">
+<center>
+<video controls width="600">
+    <source src="/assets/video/articulated_robot_1.mp4" type="video/mp4">
 </video>
 
-<!-- <video controls>
-    <source src="/assets/video/articulated_robot_2.mp4" height="360px" type="video/mp4">
-</video> --> -->
+
+<video controls width="600">
+    <source src="/assets/video/articulated_robot_2.mp4" type="video/mp4">
+</video>
+</center>
