@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Chenyang (Bryce) Wan</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="/">
+          <h2 class="nav-title">Chenyang (Bryce) Wan</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">3D Reconstruction and Visual Localization in the Campus</h2>
+  <div class="post-line"></div>
+
+  <h2 id="introduction">Introduction</h2>
+
+<p>Term project (independent work) for the course Introduction to Computer Vision (2023 Spring &amp; Summer), Zhejiang University</p>
+
+<h2 id="supervisor">Supervisor</h2>
+
+<p>Prof. <a href="https://www.xzhou.me"><strong>Xiaowei Zhou</strong></a></p>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>In this project, I first took a large number of photos of a building on campus during the day and used these photos to reconstruct a 3D sparse model of the building using <a href="https://github.com/cvg/Hierarchical-Localization"><strong>hloc</strong></a> (a hierarchical localization toolbox). During the reconstruction process, I used several different algorithms for the reconstruction and compared the results. Next, I took many photos of the building at night with low brightness and used these photos for visual localization. I did this first using the localization algorithms already implemented in hloc, and then I trained our own neural network based on <a href="https://github.com/cvg/pixloc"><strong>pixloc</strong></a> for end-to-end visual localization testing. Ultimately, we compared these two visual localization schemes (mainly measured by the mean reprojection error).</p>
+
+<h2 id="techique">Techique</h2>
+
+<p>I complete the whole job mainly with python. I used <strong>hloc</strong> to reconstruct the 3D model of the building, and implemented the visual localization function with <strong>pixloc</strong> by training our own model.</p>
+
+<h2 id="duration">Duration</h2>
+
+<p>It takes about one month to complete the project (in Dec 2023).</p>
+
+<h2 id="result">Result</h2>
+
+<center>
+<video controls="controls">
+    <source src="/assets/video/3D_reconstruction/pixloc_1.mp4" type="video/mp4" />
+</video>
+
+
+<video controls="controls">
+    <source src="/assets/video/3D_reconstruction/pixloc_2.mp4" type="video/mp4" />
+</video>
+</center>
+
+
+</div>
+
+<div class="pagination">
+  
+  
+    <a href="/2023-12-18/7-DOF-space-robot" class="right next">Next</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2024-02-21 00:20:10 +0800">2024</time> Chenyang Wan. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+      </span>
+    </footer>
+  </body>
+</html>
