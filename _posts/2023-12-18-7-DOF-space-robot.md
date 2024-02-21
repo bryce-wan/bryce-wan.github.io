@@ -33,12 +33,12 @@ It takes about three weeks to complete the project (in Nov & Dec 2023).
 ## Result
 
 <center>
-<video controls width="600">
-    <source src="/assets/video/articulated_robot/articulated_robot_1.mp4" type="video/mp4">
+<video controls="controls" width="600">
+    <source src="/assets/demo/articulated_robot/articulated_robot_1.mp4" type="video/mp4">
 </video>
 
 
-<video controls width="600">
-    <source src="/assets/video/articulated_robot/articulated_robot_2.mp4" type="video/mp4">
+<video controls="controls" width="600">
+    <source src="/assets/demo/articulated_robot/articulated_robot_2.mp4" type="video/mp4">
 </video>
 </center>
