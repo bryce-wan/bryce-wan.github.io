@@ -102,11 +102,11 @@ green: keypoints in the reference image &nbsp; &nbsp; red: keypoints in the quer
 
 <center>
 
-<video controls="controls" width="450">
+<video controls="controls" width="400">
     <source src="/assets/demo/3D_reconstruction/pixloc_1.mp4" type="video/mp4">
 </video>
 
-<video controls="controls" width="450">
+<video controls="controls" width="400">
     <source src="/assets/demo/3D_reconstruction/pixloc_2.mp4" type="video/mp4">
 </video>
 <br/>
@@ -140,7 +140,7 @@ left: mean reprojection error &nbsp; &nbsp; right: time cost
 
 <center>
 
-<video controls="controls" width="450">
+<video controls="controls" width="600">
     <source src="/assets/demo/3D_reconstruction/confidence.mp4" type="video/mp4">
 </video>
 
