@@ -14,6 +14,22 @@ Now I am an internship student in the [Robotics Lab of Zhejiang University](http
 
 <!-- # Research Experience -->
 
+# Education
+
+- B.S. Zhejiang University, 2021 - Present
+    - Major: Automation, College of Control Science and Engineering
+    - Minor: Advanced Honor Class of Engineering Education (ACEE), Chu Kochen Honors College
+
+<br/>
+
+# Awards
+
+- **Zhejiang Provincial Government Scholarship**, 2022, Zhejiang Provincial Government
+- **Zhejiang University Scholarship-Second Prize**, 2022, 2023, Zhejiang University
+- **Provincial Prize of China Undergraduate Mathematical Contest in Modeling**, 2023, CSIAM
+
+<br/>
+
 # Projects
 
 <a href="/2024-01-09/3D-reconstruction-and-visual-localization-of-the-campus">3D Reconstruction and Visual Localization in the Campus</a>
@@ -26,6 +42,9 @@ Now I am an internship student in the [Robotics Lab of Zhejiang University](http
 
 # Interests
 
-I am interested in technology trends.  
-I'm always learning C++, and I enjoy using Python.  
+- I am interested in technology trends.  
+- I'm always learning C++.
+- I enjoy using Python.  
 
+
+<!-- bundle exec jekyll serve --config _config.yml -->
